@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 ## I used a tutorial to practice building a table in React framework.
 
-<img src="" alt="drawing" width="400"/>
+<img src="https://github.com/NadiaPia/react_table/blob/master/pics/Screenshot_1.png" alt="drawing" width="400"/>
 
 ## Dependencies
 
